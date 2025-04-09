@@ -8,8 +8,6 @@ A fast, simple, and smart asynchronous downloader written in Python. Supports do
  |     \ |     | |  |  | | \  | |      |     | |_____| |     \ |______ |_____/
  |_____/ |_____| |__|__| |  \_| |_____ |_____| |     | |_____/ |______ |    \_
 
-GitHub - https://github.com/yogsec  
-Donate - https://buymeacoffee.com/yogsec
 ```
 
 ---
