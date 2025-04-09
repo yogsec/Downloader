@@ -10,6 +10,7 @@ A fast, simple, and smart asynchronous downloader written in Python. Supports do
 
 ```
 
+![downloader image](https://github.com/yogsec/Downloader/blob/main/Screenshot%20from%202025-04-10%2003-08-42.png?raw=true)
 ---
 
 ## Features
@@ -27,12 +28,10 @@ A fast, simple, and smart asynchronous downloader written in Python. Supports do
 ```bash
 git clone https://github.com/yogsec/Downloader
 cd Downloader
-```
+virtualenv venv
+source venv/bin/activate
+pip3 install aiohttp aiofiles
 
-> **Or install manually:**
-
-```bash
-pip install aiohttp aiofiles
 ```
 
 ---
